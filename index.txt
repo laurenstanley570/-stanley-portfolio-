@@ -24,7 +24,7 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = stanley's Photo
 
 12
 Years of Success
@@ -34,11 +34,11 @@ Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
 
-alt = I'm developer from New York
+alt = I'm developer from Nigeria
 
 Hello I'm
 
-Ethan Ward
+Stanley Femi
 
 Web Developer from New York
 
